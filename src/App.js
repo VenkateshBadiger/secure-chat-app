@@ -72,7 +72,7 @@ const HomePage = ({ onCreateLink }) => {
                      </ul>
                 </div>
                  <div className="text-center mt-10 mb-4 text-gray-500">
-                    <p>The source-code is public on <a href="https://github.com/muke1908/chat-e2ee" target="_blank" rel="noopener noreferrer" className="text-pink-400 hover:underline">Github</a>, feel free to contribute!</p>
+                    <p>The source-code is public on <a href="https://github.com/VenkateshBadiger/secure-chat-app" target="_blank" rel="noopener noreferrer" className="text-pink-400 hover:underline">Github</a>, feel free to contribute!</p>
                 </div>
             </div>
         </div>
